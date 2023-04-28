@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class UcgenAlan {
+public class UcgenAlan03 {
     public static void main(String[] args) {
         double a , b , c , u , alan , cevre;
         Scanner input = new Scanner(System.in);
