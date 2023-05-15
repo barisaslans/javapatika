@@ -31,7 +31,7 @@ public class C01_KdvHesaplayanProgram {
             System.out.println("KDV'siz Fiyat : " + fiyat);
             System.out.println("KDV tutarı : :"+kdvOrani);
             System.out.println("KDV'li fiyat :"+kdvliFiyat);
-
+//
         }
     }
 
