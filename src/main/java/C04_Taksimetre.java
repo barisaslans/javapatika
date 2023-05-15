@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Taksimetre04 {
+public class C04_Taksimetre {
 
 
 /*

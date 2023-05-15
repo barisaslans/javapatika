@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VucutKitleEndeksi06 {
+public class C06_VucutKitleEndeksi {
 
     /*
     Vücut Kitle İndeksi Hesaplama

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NotHesaplama02 {
+public class C02_NotHesaplama {
     public static void main(String[] args) {
         // Değişkenleri oluştur.
         int Mat, Fizik, Kimya, Turkce, Muzik, Tarih;

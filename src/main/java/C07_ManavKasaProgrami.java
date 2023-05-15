@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ManavKasaProgrami {
+public class C07_ManavKasaProgrami {
 
     /*
         Manav Kasa Programı

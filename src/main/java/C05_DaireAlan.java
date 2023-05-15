@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DaireAlanOdev05 {
+public class C05_DaireAlan {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
