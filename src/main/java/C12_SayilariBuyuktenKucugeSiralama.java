@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class C11_SayilariBuyuktenKucugeSiralama {
+public class C12_SayilariBuyuktenKucugeSiralama {
 
     public static void main(String[] args) {
 
